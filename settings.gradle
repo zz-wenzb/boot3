@@ -1,0 +1,5 @@
+rootProject.name = 'boot3'
+include 'boot3-app'
+include 'boot3-service'
+include 'boot3-hbase'
+

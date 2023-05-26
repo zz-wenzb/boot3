@@ -1,0 +1,7 @@
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'org.apache.hbase', name: 'hbase-client', version: '2.4.1'
+}
