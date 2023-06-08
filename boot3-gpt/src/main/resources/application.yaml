@@ -1,0 +1,5 @@
+open:
+  ai:
+    key: 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
+    request:
+      timeout: 60
